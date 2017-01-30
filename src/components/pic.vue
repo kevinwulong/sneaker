@@ -1,24 +1,22 @@
 <template>
    <div class="pic">
-dasdasdasdasdas
+	<z-falls></z-falls>
    </div>
 </template>
 <script>
-  export default {}
+  import falls from './piccomponents/falls'
+  export default {
+  	components: {
+  		'z-falls': falls
+  	}
+  }
 </script>
 <style>
-*{
-	 margin:0;
-	 padding:0;
-	 font-family: "微软雅黑";
-}
-.pic{	
- 	 position: absolute;
-	 top:0;
-	 width:100%;
-	 height: 95%;
-	 left:0;
-	 background: rgb(246, 246, 246);
-}
+.pic{
+	position: absolute;
+	top:150px;
+	width:100%;
+	height: 100%;
 
+}
 </style>

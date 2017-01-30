@@ -1,0 +1,190 @@
+{
+	"news": {
+		"title": "今日头条",
+		"secTitle": "HOT",
+		"hotNews": [
+			{
+				"imgUrl": "http://www2.flightclub.cn/news/uploads/allimg/170127/3-1F12G20146-lp.jpg",
+				"hotTitle": "冷知识 | 这两双球鞋的第一次亮相，都有些让人意外"
+			},
+			{
+				"imgUrl": "http://www2.flightclub.cn/news/uploads/allimg/170127/3-1F12G11926-50-lp.jpg",
+				"hotTitle": "定价 ￥1899，万众瞩目的三方联名开始预约！"
+			},
+			{
+				"imgUrl": "http://www2.flightclub.cn/news/uploads/allimg/170126/3-1F1261A553-lp.jpg",
+				"hotTitle": "性价比也不错！这双今年情人节的大礼可要盯紧了！"
+			},
+			{
+				"imgUrl": "http://www2.flightclub.cn/news/uploads/allimg/170129/3-1F129133215-50.jpg",
+				"hotTitle": "这个爷爷级的 Sneakerhead 近期有点火！"
+			}
+		],
+		"newtitle": "最新资讯",
+		"newSecTitle": "NEW",
+		"newNews": [
+			{
+				"imgUrl": "https://c1.hoopchina.com.cn/uploads/star/event/images/170129/bfacef6a7e9cdf11259eedc26772400524efc856.png",
+				"Title": "里弗斯：斯贝茨现在投三分都非常自然",
+				"TitleTwo": "斯贝茨本赛季至今已经投出160多个三分，命中率高达40.2%.",
+				"author": "橘郡纪事报",
+				"readNum": "321",
+				"text": "虎扑体育1月29日讯 据《橘郡纪事报》记者报道，道格-里弗斯很难相信，马利斯-斯贝茨也有过那种要别人鼓励投篮的那一天。但斯贝茨也曾有过一段时间不敢走出三分线外投篮，那时候，那块区域还是供联盟后卫戏耍的地方。但自从史蒂夫-科尔被聘请为勇士主教练之后，他决定看看这个身高2.08米的大个子身上是否有那么一点拉里-伯德的影子。在他们交流完的第一个赛季中，斯贝茨实际上只投了13个三分。但上赛季，也就是他和科尔共事的第二个赛季，斯贝茨投出了62个三分——生涯新高。命中率也高达38.7%，去年夏天，他签约了快船，拥有了无限出手权。",
+				"ratings": [
+					{
+						"username": "titilucky",
+						"avatar": "https://i2.hoopchina.com.cn/user/default_small.jpg",
+						"text": "太残暴了… ",
+						"zan": 1
+					},
+					{
+						"username": "黄ing",
+						"avatar": "https://i1.hoopchina.com.cn/user/000/26082000/26082000_small_5.jpg",
+						"text": "这火力感觉就像玩2k",
+						"zan": 1
+					},
+					{
+						"username": "蹂躏我的菊花",
+						"avatar": "https://i2.hoopchina.com.cn/user/365/29075365/29075365_small_1.jpg",
+						"text": "太可怕了，或许今年不是冠军就是亚军了！",
+						"zan": 1
+					}
+					
+				]
+
+			},
+			{
+				"imgUrl": "https://c1.hoopchina.com.cn/uploads/star/event/images/170128/a9088cd722d9c716bce0582bc633b41d198ab227.jpg",
+				"Title": "巴特勒：甜瓜应该离开尼克斯加入冠军级球队",
+				"TitleTwo": "卡梅罗-安东尼是时候离开尼克斯，开始寻求赢取总冠军。",
+				"author": "TMZ",
+				"readNum": "112",
+				"text": "巴特勒表示，他希望看到安东尼在本赛季能够加入一支真正有竞争NBA总冠军实力的球队.TMZ体育跟巴特勒谈到了最近围绕着‘甜瓜和杰克逊闹剧’的交易流言。巴特勒表示，种种迹象表明尼克斯接下来希望围绕着年轻球星克里斯塔普斯-波尔津吉斯来进行重建。根据ESPN之前报道，尼克斯和快船正在寻求第三方球队来促成安东尼的交易。巴特勒曾在NBA征战了14个赛季，共出战了881场比赛，场均上场32.2分钟得到14.1分5个篮板2.3次助攻。他曾在2011年跟随小牛队夺得了NBA总冠军。",
+				"ratings": []
+
+			},
+			{
+				"imgUrl": "https://c2.hoopchina.com.cn/uploads/star/event/images/170129/17dc2ce8beb8191e792f37f4838b45441da863cc.jpg",
+				"Title": "NBA官方晒图祝马克-加索尔生日快乐",
+				"TitleTwo": "马克-加索尔迎来了32岁生日。",
+				"author": "Instagram",
+				"readNum": "232",
+				"text": "虎扑体育1月29日讯 NBA官方Instagram账号刚刚发布了一张照片（见新闻配图），他们在上面祝马克-加索尔生日快乐。“让我们一起祝@memgrizz （灰熊官方账号）的@marcgasol （加索尔的账号）32岁生日快乐！#NBABDAY”NBA官方账号写道。刚刚年满32岁的加索尔本赛季场均上场34.4分钟，可以得到20.8分6.1个篮板4.2个助攻。",
+				"ratings": []
+
+			},
+			{
+				"imgUrl": "https://c1.hoopchina.com.cn/uploads/star/event/images/170128/c517fb89186457daf359c6f0dd28f5e1f8225965.jpg",
+				"Title": "骑士补强瞄准谢尔文-麦克和贾米尔-尼尔森",
+				"TitleTwo": "他们现在的目标为爵士后卫谢尔文-麦克和掘金后卫贾米尔-尼尔森。",
+				"author": "The Score",
+				"readNum": "221",
+				"text": "虎扑体育1月28日讯 据著名记者Marc Stein报道，据联盟消息人士透露，克里夫兰骑士队仍在积极寻找合适的替补控卫，他们现在的目标为爵士后卫谢尔文-麦克和掘金后卫贾米尔-尼尔森.根据此前的报道，勒布朗-詹姆斯最近一直希望球队管理层能够找到一名合适的替补控卫。麦克本赛季的工资为240万美元，骑士能够用手中的交易特例直接吃下。据消息人士透露，爵士对交易麦克持开放态度。尼尔森本赛季工资为450万美元，骑士同样能够使用交易特例拿下。但是随着掘金主力控卫伊曼纽尔-穆迪埃的受伤，掘金是否会考虑现在出售尼尔森还不得而知。",
+				"ratings": [
+					{
+						"username": "gfnewddh",
+						"avatar": "https://i2.hoopchina.com.cn/user/722/28985722/28985722_small_1.png",
+						"text": "你拿什么换马克， 马克可是打爆马刺后卫线的马克啊，希尔一旦受伤就他能救火了，还是内托比较靠谱。",
+						"zan": 1
+					},
+					{
+						"username": "一米打中锋",
+						"avatar": "https://i2.hoopchina.com.cn/user/242/18956242/18956242-1467514262.jpeg@45h_45w_2e",
+						"text": "尼尔森可以的老将经验丰富",
+						"zan": 1
+					},
+					{
+						"username": "LBJ1118",
+						"avatar": "https://i3.hoopchina.com.cn/user/296/17559296/17559296_small_1.jpg",
+						"text": "从老鹰的时候就不错了，爵士这后卫线这些年也没几个靠谱的之前的伯克，还有埃克萨姆，一个比一个铁",
+						"zan": 1
+					},
+					{
+						"username": "新浪卧底仔",
+						"avatar": "https://i3.hoopchina.com.cn/user/351/19028351/19028351_small_2.jpg",
+						"text": "爵士也很乐意交易马克，爵士后卫拥挤，希尔加上重点培养的艾克萨姆，小前锋英格尔斯必要时可以客串后卫，组织能力也不错，骑士出利金斯＋二轮选秀权吧。",
+						"zan": 1
+					},
+					{
+						"username": "iphone22",
+						"avatar": "https://i3.hoopchina.com.cn/user/624/18194624/18194624_small_82.jpg",
+						"text": "希望能把Mack带到克城",
+						"zan": 1
+					}
+				]
+
+			},
+			{
+				"imgUrl": "https://c1.hoopchina.com.cn/uploads/star/event/images/170129/915c2a47a61c3aa83084b609a375c1852e56613e.jpg",
+				"Title": "科里森：这是我见过传球最好的考辛斯",
+				"TitleTwo": "考辛斯今天得到35分18篮板4助攻。",
+				"author": " 萨克拉门托蜜蜂报",
+				"ratingNum": "355",
+				"ratings": [],
+				"text": "虎扑体育1月29日讯 国王今天客场以109-106险胜黄蜂，球队当家球星德马库斯-考辛斯得到了35分18个篮板4次助攻。然而和得分相比，考辛斯在组织球队进攻上的角色给队友留下的印象更深刻。“这是我见过传球最好的考辛斯，”后卫达伦-科里森说，“一般来说，他是一名出色的传球手，不过他更有意识地让大家参与到进攻中去，并把球传到大家需要的地方去。能像他那么做的大个子并不多，能像他那样吸引包夹的大个子也不多。考辛斯在让我们参与到进攻中的方面上做得特别好，而我们的工作就是要命中那些投篮。”"
+
+			},
+			{
+				"imgUrl": "https://c2.hoopchina.com.cn/uploads/star/event/images/170129/5efe5873985dc145057e89ac910b2e7e56b9bff3.jpg",
+				"Title": "勇士赢球，麦基晒球迷扭臀图形容心情",
+				"TitleTwo": "这位球迷穿着印有麦基名字的衣服。",
+				"author": "Instagram",
+				"ratingNum": "122",
+				"ratings": [
+					{
+						"username": "MPCTMRS",
+						"avatar": "https://i2.hoopchina.com.cn/user/708/18871708/18871708_small_39.jpg",
+						"text": "斯帝加油~~",
+						"zan": 1
+					}
+				]
+
+			}
+		]
+	},
+	"sell": {
+		"title": "发售信息",
+		"secTitle": "TIME",
+		"timeAll": [
+			{
+				"name": "",
+				"num": "",
+				"time": "",
+				"imgUrl": ""
+			}
+		]
+	},
+	"pic": [
+		"http://www2.flightclub.cn/news/uploads/allimg/170129/6-1F129130526.jpg",
+		"http://www2.flightclub.cn/news/uploads/allimg/170129/6-1F129130531-50.jpg",
+		"http://www2.flightclub.cn/news/uploads/allimg/170129/6-1F129115P6.jpg",
+		"http://www2.flightclub.cn/news/uploads/allimg/170129/6-1F129115Q1-52.jpg",
+		"http://www2.flightclub.cn/news/uploads/allimg/170128/3-1F12Q11513.jpg",
+		"http://www2.flightclub.cn/news/uploads/allimg/170130/3-1F130113424-55.jpg",
+		"http://www2.flightclub.cn/news/uploads/allimg/170130/3-1F130110636.jpg",
+		"http://www2.flightclub.cn/news/uploads/allimg/sc/20170130_AJ5TF/take-flight-air-jordan-5-881432-305-3.jpg",
+		"http://www2.flightclub.cn/news/uploads/allimg/170130/3-1F130110121.jpg",
+		"http://www2.flightclub.cn/news/uploads/allimg/170130/3-1F130110314-50.jpg",
+		"http://www2.flightclub.cn/news/uploads/allimg/170130/3-1F130110409.jpg",
+		"http://www2.flightclub.cn/news/uploads/allimg/sc/20170130_YZY/adidas-yeezy-boost-350-v2-black-february-release-date.jpg",
+		"http://www2.flightclub.cn/news/uploads/allimg/170130/3-1F130095P0-53.jpg",
+		"http://www2.flightclub.cn/news/uploads/allimg/170130/3-1F130095P0-51.jpg",
+		"http://www2.flightclub.cn/news/uploads/allimg/170130/3-1F130095P0-50.jpg",
+		"http://www2.flightclub.cn/news/uploads/allimg/170130/3-1F130095P0.jpg",
+		"http://www2.flightclub.cn/news/uploads/allimg/170130/3-1F130095K9-50.jpg",
+		"http://www2.flightclub.cn/news/uploads/allimg/170130/3-1F130095K9.jpg",
+		"http://www2.flightclub.cn/news/uploads/allimg/170130/3-1F130095K8-54.jpg",
+		"http://www2.flightclub.cn/news/uploads/allimg/170130/3-1F130095K8-53.jpg",
+		"http://www2.flightclub.cn/news/uploads/allimg/170130/3-1F130095K8-52.jpg",
+		"http://www2.flightclub.cn/news/uploads/allimg/170130/3-1F130095K8-51.jpg",
+		"http://www2.flightclub.cn/news/uploads/allimg/170130/3-1F130095K8-50.jpg",
+		"http://www2.flightclub.cn/news/uploads/allimg/170130/3-1F130095K8.jpg",
+		"http://www2.flightclub.cn/news/uploads/allimg/170130/3-1F130095K7-55.jpg",
+		"http://www2.flightclub.cn/news/uploads/allimg/170130/3-1F130095K7-54.jpg",
+		"http://www2.flightclub.cn/news/uploads/allimg/170130/3-1F130095K7-53.jpg",
+		"http://www2.flightclub.cn/news/uploads/allimg/170130/3-1F130095K7-51.jpg",
+		"http://www2.flightclub.cn/news/uploads/allimg/170130/3-1F130095K7-50.jpg",
+		"http://www2.flightclub.cn/news/uploads/allimg/170130/3-1F130095K6-52.jpg"
+	]
+
+}
