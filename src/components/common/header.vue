@@ -13,9 +13,10 @@
 	width:100%;
 	height: 150px;
 	background: rgb(0, 2, 3);
-	position: absolute;
+	position: fixed;
 	top:0;
 	left:0;
+	z-index:1000;
 }
 .header>img{
 	display: block;

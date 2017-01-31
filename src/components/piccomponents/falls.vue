@@ -1,34 +1,40 @@
 <template>
    <div class="falls"  ref="fallsWrapper">
-   	<ul>
-
-   		<li v-for="pic in pics" class="index" @click="picShowFunc">
+   	<ul v-show="fallShow">
+		
+   		<li v-for="pic in pics" class="index" @click.stop="picShowFunc(pic, $event)">
    			 <img :src="pic">
-   			 <z-page :pic="pic" ref="pic"></z-page>
-   		</li>
-   		
+   		</li>	
    	</ul>
+   	<z-page  ref="page" :picTrue="picTrue" :picUrl="picUrl"  @picHideFunc="picHideFunc"></z-page>
    </div>
 </template>
 <script>
   import data from './../../data.json'
-  import picPage from './pic'
+  import picPage from './page'
   export default {
   	data() {
   		return {
   			pics: {
   				type: Array
   			},
-  			picShow: false,
-  			picTrue: true
+  			picTrue: false,
+  			fallShow: true,
+  			picUrl: ''
   		}
   	},
   	components: {
   		'z-page': picPage
   	},
   	methods: {
-  		picShowFunc() {
-  			 this.$refs.pic.show()
+  		picShowFunc(pic, event) {
+  			this.$refs.page.show(),
+  			this.picUrl=pic
+  			this.fallShow=false
+  		},
+  		picHideFunc() {
+  			this.$refs.page.hide()
+  			this.fallShow=true
   		},
   		waterFall() {
   			let oli = this.$refs.fallsWrapper.getElementsByTagName('li')
@@ -68,8 +74,7 @@
 </script>
 <style>
 .falls{
-	width: 100%;
-	height: 100%;
+
 }
 .index{
 	list-style: none;

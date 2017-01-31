@@ -1,10 +1,21 @@
 <template>
    <div class="news">
-aaaaaaaaaaaaa
-   </div>
+	<div class="container">
+	  		<mt-swipe :auto="0">
+			  <mt-swipe-item>1</mt-swipe-item>
+			  <mt-swipe-item>2</mt-swipe-item>
+			  <mt-swipe-item>3</mt-swipe-item>
+			</mt-swipe>
+   	</div>
 </template>
 <script>
-  export default {}
+  import { Swipe, SwipeItem } from 'mint-ui'
+  export default {
+  	components: {
+  		'mt-swipe': Swipe,
+  		'mt-swipe-item': SwipeItem
+  	}
+  }
 </script>
 <style>
 *{
@@ -20,5 +31,11 @@ aaaaaaaaaaaaa
 	 left:0;
 	 background: rgb(246, 246, 246);
 }
-
+.container{
+	position: relative;
+	top:150px;
+}
+.container>div{
+	font-size: 60px
+}
 </style>

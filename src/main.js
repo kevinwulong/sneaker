@@ -5,7 +5,7 @@ import App from './App'
 import VueRouter from 'vue-router'
 import main from './components/main'
 import news from './components/news'
-import pic from './components/pic'
+import pic from './components/picPage'
 import sell from './components/sell'
 import tribune from './components/tribune'
 
@@ -32,5 +32,4 @@ let router = new VueRouter({
 let app =new Vue({
 	router
 }).$mount('#app')
-router.push('/main')
 export default app

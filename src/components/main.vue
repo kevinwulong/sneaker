@@ -1,6 +1,7 @@
 <template>
   <div class="main">
 	  <div class="main-wrapper" ref="mainWrapper">
+	  	
 		<div class="hot-content">
 			<z-title :firTitle="news.title" :secTitle="news.secTitle"></z-title>
 			<div class="hotBig-box">
@@ -33,6 +34,7 @@
 <script>
   import data from '../data.json'
   import title from './common/title'
+  
   export default {
   	data() {
   	  return {
