@@ -32,4 +32,5 @@ let router = new VueRouter({
 let app =new Vue({
 	router
 }).$mount('#app')
+app.push('/main')
 export default app
